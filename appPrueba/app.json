@@ -1,7 +1,7 @@
 {
   "id": "98934ad7-e986-4ac9-834d-5655e8e5b611",
   "name": "appPrueba",
-  "publisher": "Default publisher",
+  "publisher": "adrian",
   "brief": "",
   "description": "",
   "version": "1.0.0.0",
@@ -15,9 +15,11 @@
   "screenshots": [],
   "platform": "13.0.0.0",
   "application": "13.0.0.0",
+  "test": "13.0.0.0",
   "idRange": {
     "from": 50100,
     "to": 50149
   },
-  "runtime": "2.3"
+  "runtime": "2.3",
+  "features": ["TranslationFile"]
 }
